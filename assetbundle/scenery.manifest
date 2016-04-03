@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1571637607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce9e39c8fd3fb01d4b30b3ef1e9ea5a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18f88a6a41a39d45481574f548d1d50a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/groundcover.dae
+- Assets/builder6.dae
+- Assets/builder1.dae
+- Assets/builder5.dae
+- Assets/mushroom.dae
+- Assets/builder2.dae
+- Assets/builder3.dae
+- Assets/builder4.dae
+Dependencies: []

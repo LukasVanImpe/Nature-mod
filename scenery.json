@@ -1,0 +1,71 @@
+﻿{
+    "builder1": {
+		"category": "Nature",
+		"model": "builder1",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+
+     "builder2": {
+		"category": "Nature",
+		"model": "builder2",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+
+     "builder3": {
+		"category": "Nature",
+		"model": "builder3",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+
+     "builder5": {
+		"category": "Nature",
+		"model": "builder5",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+
+     "builder6": {
+		"category": "Nature",
+		"model": "builder6",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "mushroom": {
+		"category": "Nature",
+		"model": "mushroom",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "groundcover": {
+		"category": "Nature",
+		"model": "groundcover",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     
+     "builder4": {
+		"category": "Nature",
+		"model": "builder4",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+}
